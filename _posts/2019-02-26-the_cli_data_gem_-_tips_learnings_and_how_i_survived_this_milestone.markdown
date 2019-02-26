@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "The CLI Data Gem - *Tips, Learnings, and How I Survived this Milestone*"
+title:      "The CLI Data Gem - Tips, Learnings, and How I Survived this Milestone"
 date:       2019-02-26 01:28:25 -0500
 permalink:  the_cli_data_gem_-_tips_learnings_and_how_i_survived_this_milestone
 ---
