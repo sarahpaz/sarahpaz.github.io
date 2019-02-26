@@ -67,7 +67,7 @@ Planning this way was very helpful, I was able to have my code laid out and see 
 
 That's one thing (of the many things!), I learned from Avi's videos on [Learn Instruct](http://instruction.learn.co/student/video_lectures#/). You should aim to have your CLI working and interacting with the user as intended before getting into the scraping. Use strings to fill in for your objects while you're getting the flow to work. Once all is as expected, you can tackle the more difficult tasks. 
 
-All in all, it took me about 4 days to have my code "complete" (by complete, I mean functional), 3 days of planning, 1 days to refactor and create this blog post. I'd be lying if I said I didn't yell at my [rubber ducky](http://rubberduckdebugging.com/ family) (yes, I have 4) and dream about my code logic on multiple nights. This is no easy task, but you'll walk away with tons of learnings, feeling accomplished, and really seeing how much you've grown. You'd be surprised at how much you actuall know!
+All in all, it took me about 4 days to have my code "complete" (by complete, I mean functional), 3 days of planning, 1 days to refactor and create this blog post. I'd be lying if I said I didn't yell at my [rubber ducky](http://rubberduckdebugging.com/) (yes, I have 4) and dream about my code logic on multiple nights. This is no easy task, but you'll walk away with tons of learnings, feeling accomplished, and really seeing how much you've grown. You'd be surprised at how much you actuall know!
 
 To end off, here are my top learnings after completing my CLI Data Gem:
 * git commit, git commit, git commit!
