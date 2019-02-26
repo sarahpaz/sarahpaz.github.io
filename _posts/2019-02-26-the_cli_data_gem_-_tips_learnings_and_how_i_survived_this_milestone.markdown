@@ -62,9 +62,12 @@ class Tealish::CLI
   end
 end
 ```
-What I've learned from Avi's videos (if you haven't already checked them out in [Learn Instruct](http://instruction.learn.co/student/video_lectures#/), make sure you do before you start! ) is that you should aim to have your CLI working and interacting with the user as intended before getting into the scraping. Use strings to fill in for your objects while you're getting the flow to work. Once all is as expected, you can tackle the more difficult tasks. 
 
-All in all, it took me about 4 days to have my code "complete" (by complete, I mean functional), 3 days of planning, 2 days to refactor, create this blog post and record my walkthrough, which I think took about 20 takes before I got it just right. I'd be lying if I said I didn't yell at my rubber ducky family (yes, I have 4), and dream about my code logic on multiple nights. This is no easy task, but what you walk away with after is huge. You'll feel so accomplished, realize how far you've gone, and definitely get out of it with tons of new learnings. 
+Planning this way was very helpful, I was able to have my code laid out and see how I wanted everything to work, then break it down into separate methods responsible for specific tasks. 
+
+That's one thing (of the many things!), I learned from Avi's videos on [Learn Instruct](http://instruction.learn.co/student/video_lectures#/). You should aim to have your CLI working and interacting with the user as intended before getting into the scraping. Use strings to fill in for your objects while you're getting the flow to work. Once all is as expected, you can tackle the more difficult tasks. 
+
+All in all, it took me about 4 days to have my code "complete" (by complete, I mean functional), 3 days of planning, 1 days to refactor and create this blog post. I'd be lying if I said I didn't yell at my [rubber ducky](http://rubberduckdebugging.com/ family) (yes, I have 4) and dream about my code logic on multiple nights. This is no easy task, but you'll walk away with tons of learnings, feeling accomplished, and really seeing how much you've grown. You'd be surprised at how much you actuall know!
 
 To end off, here are my top learnings after completing my CLI Data Gem:
 * git commit, git commit, git commit!
