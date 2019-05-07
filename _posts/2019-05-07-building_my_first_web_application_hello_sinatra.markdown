@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Building My First Web Application (Hello Sinatra!)"
-date:       2019-05-07 20:25:14 +0000
+date:       2019-05-07 16:25:15 -0400
 permalink:  building_my_first_web_application_hello_sinatra
 ---
 
