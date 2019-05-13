@@ -1,13 +1,13 @@
 # Site settings
 author: Sarah Paz
-title: 
+title: Journey to Dev.
 header-img: img/home-bg.png
 email: sarah.paz@gmail.com
 copyright_name: Sarah Paz
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learnings, struggles and advice, from a girl on her dev journey.
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: 
+twitter_username: sarahjpaz
 github_username:  sarahpaz
 
 # Build settings
