@@ -41,7 +41,8 @@ Here are a few tips that helped me get through this:
 
 Please feel free to reach out to me if you have any questions, I'm happy to help!
 
-
+Here's the video walkthrough of my project, enjoy!
+https://www.youtube.com/watch?v=TkcNXmNiLns
 
 
 
