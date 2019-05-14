@@ -15,7 +15,7 @@ With that being said, this is exactly what I did to start my project and switch 
 ### Watch Instruct Videos:
 Sure, there are probably tons of videos on [Learn Instruct](https://instruction.learn.co) that will help you on your Sinatra Project journey, but these are the ones in specific that helped me:
 
-https://instruction.learn.co/student/video_lectures#/?query=journal
+[https://instruction.learn.co/student/video_lectures#/?query=journal](https://instruction.learn.co/student/video_lectures#/?query=journal)
 ### RSVP to Study Groups:
 There are tons of study groups available from AMA's to project prep, and even project builds! Join them! I joined them before I started my project to get a better feel of what is expected, and to hear other students questions. You'll learn a lot about what you need to include in these groups so don't miss them! It's also a great away to not only interact with your project support lead, but other students who are currently building their web application. Ask all the questions you need!
 ### Plan:
