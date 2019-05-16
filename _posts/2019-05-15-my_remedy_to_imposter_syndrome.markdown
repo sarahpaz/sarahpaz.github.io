@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My Remedy to Imposter Syndrome"
-date:       2019-05-16 01:39:55 +0000
+date:       2019-05-15 21:39:55 -0400
 permalink:  my_remedy_to_imposter_syndrome
 ---
 
